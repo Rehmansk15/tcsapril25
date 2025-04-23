@@ -9,4 +9,7 @@ class testCases{
 	@Test
 	public void testMethod3{
 }
+	@Test
+	public void testMethod4{
+}
 }
