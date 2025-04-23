@@ -12,4 +12,7 @@ class testCases{
 	@Test
 	public void testMethod4{
 }
+	@Test
+	public void testMethod6{
+}
 }
